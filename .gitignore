@@ -1,0 +1,24 @@
+
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Django
+db.sqlite3
+*.log
+
+# Sensitive files
+.env
+
+# VS Code
+.vscode/
+myvenv/
+sspenv/
+__pycache__/
+*.pyc
+.env
+.vscode/
